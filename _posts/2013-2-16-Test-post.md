@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+title: test post
 ---
 
 # How does it work?
